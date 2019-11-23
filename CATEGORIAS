@@ -1,5 +1,3 @@
-
-
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FIMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
@@ -32,15 +30,32 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]KIDS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601400.us.archive.org/27/items/fanart_20191123/kids.png</thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601500.us.archive.org/24/items/canaisaberto/canais%20aberto.png</thumbnail>
 <externallink>https://raw.githubsercontent.com</externallink>
-</fanart>https://ia601400.us.archive.org/27/items/fanart_20191123/fanart.jpg<fnart>
+<fanart>https://ia601504.us.archive.org/14/items/fanart_20191123_1430/fanart.jpg</fnart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - TUDO PARA CRIANÇA - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - MELHORES CANAIS ABERTO - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ESPORTES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601500.us.archive.org/24/items/canaisaberto/esportes.png</thumbnail>
+<externallink>https://raw.githubsercontent.com</externallink>
+<fanart>https://ia601500.us.archive.org/24/items/canaisaberto/fanart.jpg</fnart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - ESPORTES 24 HORAS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
