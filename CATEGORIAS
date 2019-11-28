@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FIMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR yellow]FIMES[/COLOR]</name>
 <thumbnail>https://ia601400.us.archive.org/17/items/filmes_20191125/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/willamyfs/ferreira-/master/FILMES</externallink>
 <fanart>https://ia601400.us.archive.org/17/items/filmes_20191125/fanart.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR yellow]SÉRIES[/COLOR]</name>
 <thumbnail>https://ia801404.us.archive.org/32/items/lancamentos_20191123/series.png</thumbnail>
 <externallink>https://raw.githubsercontent.com</externallink>
 <fanart>https://ia601406.us.archive.org/9/items/fanart_20191125/fanart.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR yellow]TV AO VIVO[/COLOR]</name>
 <thumbnail>https://ia601500.us.archive.org/24/items/canaisaberto/canais%20aberto.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/willamyfs/ferreira-/master/Canais</externallink>
 <fanart>https://ia601504.us.archive.org/14/items/fanart_20191123_1430/fanart.jpg</fnart>
@@ -45,14 +45,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ESPORTES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR yellow]ADULTO 18[/COLOR]</name>
 <thumbnail>https://ia601500.us.archive.org/24/items/canaisaberto/esportes.png</thumbnail>
 <externallink>https://raw.githubsercontent.com</externallink>
 <fanart>https://ia601500.us.archive.org/24/items/canaisaberto/fanart.jpg</fnart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - ESPORTES 24 HORAS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - ADULTO 18 24 HORAS - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
