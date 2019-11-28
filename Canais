@@ -65,3 +65,10 @@
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTahTVuFm9i_HzBP0EMDu1AD7zwWzrvvF2WPriYFKnrh8OA7Qem</fanart>
 <info></info>
 </item>
+
+<item>
+<title>RedeTv</title>
+<link>http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/MEBQV6z.png</thumbnail>
+<fanart></fanart>
+</item>
