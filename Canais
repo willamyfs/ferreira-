@@ -1,34 +1,4 @@
-<item>
-<title>Telecine Touch</title>
-<link>http://edge-aws.aovivo.club/hls/s:78.47.3.135/telecinetouch_74cbd2c2_72f42eabd68df28b1028950c51fcd0ddeac566fd.m3u8</link>
-<thumbnail>http://aovivo.club/wp-content/uploads/2019/07/tctouch.png</thubnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTahTVuFm9i_HzBP0EMDu1AD7zwWzrvvF2WPriYFKnrh8OA7Qem</fanart>
-<info></info>
-</item>
-
-<<<<<<<<<<<<<<<
-
-<item>
-<title>Telecine Pipoca</title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_f55d9191f14171f42376dd1e433e57660ee69e79/playlist.m3u8</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKBfe8fnj6RqOjV32d_sfoywRBYtsWcOEZu-awzjzokyMoQRC7</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTahTVuFm9i_HzBP0EMDu1AD7zwWzrvvF2WPriYFKnrh8OA7Qem</fanart>
-<info></info>
-</item>
-
-<<<<<<<<<<<<<<<
-
-<item>
-<title>Telecine Fun</title>
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinefun_ae1e7198_1c6140ed92c103a3c920de9673addbd36d9bcbaa/playlist.m3u8</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS94rt2pd7vogPj_nbMSOC2Yzy_2PXJSJQhHo_Ycxzb7TDRIlaY</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTahTVuFm9i_HzBP0EMDu1AD7zwWzrvvF2WPriYFKnrh8OA7Qem</fanart>
-<info></info>
-</item>
-
-<<<<<<<<<<<<<<<
-
-<item>
+<<item>
 <title>Globo SP</title>
 <link>http://edge-aws.aovivo.club/hls/s:78.47.74.192/globosp_cfe21c68_1f983090a2bae6ad21a1ca7431bf7c00cc09b644.m3u8</link>
 <thumbnail>https://i.pinimg.com/originals/a4/ed/cc/a4edcce9c057e6f6941dc5a590299390.png</thumbnail>
