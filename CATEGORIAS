@@ -76,8 +76,8 @@
 <channels>
 <channel>
 <name>[COLOR yellow]TORRENTS[/COLOR]</name>
-<thumbnail>https://raw.githubsercontent.com</thumbnail>
-<externallink></externallink>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubsercontent.com</externallink>
 <fanart></fanart>
 <info>
 
