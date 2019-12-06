@@ -62,3 +62,35 @@
 <info></info>
 </item>
 
+<item>
+<title>300</title>
+<link>http://localhost:65251/play?uri=magnet:?xt=urn:btih:893857ad4194f05013e0b6a399a72d3b096ce6cd&amp</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_SX300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Os Vingadores</title>
+<link>http://localhost:65251/play?uri=magnet:?xt=urn:btih:00F17E8D27157B266B97BE6F0BE3C25C30287472&amp</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqO__VrUozK4Kr8XhUEF3JFLmVyz9ITZxHn5hH8UYLxGKtDIi-</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Distrito 9</title>
+<link>http://localhost:65251/play?uri=magnet:?xt=urn:btih:B84B1C362539F9CF4FB9350B965527C7A8E75193&amp</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZBc_rBvYzFwq-dufctIMTmJ66dV3uoVpnPijjvg-A2qrZs_wr</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Rota de fuga</title>
+<link>http://localhost:65251/play?uri=magnet:?xt=urn:btih:CE575DAF22037F3C070E4DBE5B50DE5E02C4E6D0&amp</link>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/eHlAY4fIyQmz6oJQO51yNXm1V92.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
